@@ -1,9 +1,5 @@
 {
   "devDependencies": {
     "grug-components": "^0.1.1"
-  },
-  "scripts": {
-    "build": "grug_components",
-    "clean": "rm -rf build"
   }
 }
